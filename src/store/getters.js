@@ -1,0 +1,1 @@
+export const GzHouseInfo = state => state.GzHouseInfo
