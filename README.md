@@ -1,4 +1,4 @@
 # 公寓租房单页面wap网站
 ## 技术栈
-> vue2 + vue-router + axios
+> vue2 + vue-router + vuex + axios
 
